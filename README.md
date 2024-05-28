@@ -3,6 +3,8 @@
 ## Description
 - The Cpp_UE_Get_Thumbnails plugin is designed for Unreal Engine 5.2 and above. It enables users to save thumbnails of assets in the content browser to .png files by automatically creating a folder named "Thumbnails" in the project directory.
 
+  ![Plugin - Save Asset Thumbnails UE](https://github.com/munucrafts/Cpp_UE_Get_Thumbnails/assets/66869650/47c77d93-03da-4358-a25d-5ad3de8c67ba)
+
 ## Installation
 - Download the latest release from the GitHub repository.
 - Extract the contents of the zip file into the Plugins folder of your Unreal Engine project.
